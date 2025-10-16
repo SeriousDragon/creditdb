@@ -167,5 +167,4 @@
 
 **Автор:** *Team3*  
 **Технологии:** PostgreSQL · Airflow · Superset · Docker  
-**По всем вопросам обращаться к ChatGPT**
-    
+_По всем вопросам обращаться к ChatGPT_
