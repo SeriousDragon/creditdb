@@ -60,7 +60,7 @@
 Пример команды для импорта:
 ```bash
 \copy clients FROM '/path/to/credit_clients.csv' DELIMITER ',' CSV HEADER;
-    
+```  
 
 * * *
 
